@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="center" height="300" src="https://giffiles.alphacoders.com/220/220281.gif"  />
+<img align="center" height="230" src="https://giffiles.alphacoders.com/220/220281.gif"  />
 <div align="left">
  
  🔭 I’m currently working on
