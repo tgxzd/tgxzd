@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Quicksand&size=35&duration=3000&color=0F4FDAEB&background=FFFEFF00&lines=Hey+There+%F0%9F%91%8B;My+Name+is+Tengku+Aizad;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&size=35&center=true&vCenter=true&width=600&height=80&duration=3000&lines=Hi+There!+👋;+I'm+Tengku+Aizad;" />
 </h1>
 
 <h3 align="center"></h3>
