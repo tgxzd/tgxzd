@@ -9,7 +9,7 @@
 <br/>
 
 <div align="left">
- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+ <img align="right" height="150" src="https://giffiles.alphacoders.com/220/220281.gif"  />
  🔭 I’m currently working on
  
  🌱 I’m currently learning 
