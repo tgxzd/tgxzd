@@ -61,7 +61,7 @@
 <hr/>
 
 
-
+<div align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tgxzd&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tgxzd&theme=great-gatsby&hide_border=true)<br/>
@@ -71,3 +71,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tgxzd&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
