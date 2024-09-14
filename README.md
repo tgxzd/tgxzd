@@ -8,8 +8,9 @@
 
 <br/>
 
+<img align="center" height="300" src="https://giffiles.alphacoders.com/220/220281.gif"  />
 <div align="left">
- <img align="right" height="150" src="https://giffiles.alphacoders.com/220/220281.gif"  />
+ 
  🔭 I’m currently working on
  
  🌱 I’m currently learning 
